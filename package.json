@@ -1,0 +1,28 @@
+{
+  "name": "NodeOrientationSpy",
+  "version": "0.0.0",
+  "description": "just for fun",
+  "main": "app.js",
+  "dependencies": {
+    "express": "~3.1.0",
+    "socket.io": "~0.9.13"
+  },
+  "devDependencies": {
+    "express": "*",
+    "socket.io": "*"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/vitvad/NodeOrientationSpy.git"
+  },
+  "keywords": [
+    "expressjs",
+    "nodejs",
+    "tree.js"
+  ],
+  "author": "",
+  "license": "MIT"
+}
